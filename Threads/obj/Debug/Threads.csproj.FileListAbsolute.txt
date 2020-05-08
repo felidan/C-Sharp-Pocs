@@ -1,0 +1,7 @@
+C:\Users\felip\source\repos\CSharpExemplos\Threads\bin\Debug\Threads.exe.config
+C:\Users\felip\source\repos\CSharpExemplos\Threads\bin\Debug\Threads.exe
+C:\Users\felip\source\repos\CSharpExemplos\Threads\bin\Debug\Threads.pdb
+C:\Users\felip\source\repos\CSharpExemplos\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\CSharpExemplos\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\CSharpExemplos\Threads\obj\Debug\Threads.exe
+C:\Users\felip\source\repos\CSharpExemplos\Threads\obj\Debug\Threads.pdb

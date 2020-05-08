@@ -1,0 +1,10 @@
+C:\Users\felip\source\repos\CSharpExemplos\Serializer\bin\Debug\Serializer.exe.config
+C:\Users\felip\source\repos\CSharpExemplos\Serializer\bin\Debug\Serializer.exe
+C:\Users\felip\source\repos\CSharpExemplos\Serializer\bin\Debug\Serializer.pdb
+C:\Users\felip\source\repos\CSharpExemplos\Serializer\bin\Debug\0 - Uteis.dll
+C:\Users\felip\source\repos\CSharpExemplos\Serializer\bin\Debug\0 - Uteis.pdb
+C:\Users\felip\source\repos\CSharpExemplos\Serializer\obj\Debug\Serializer.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\CSharpExemplos\Serializer\obj\Debug\Serializer.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\CSharpExemplos\Serializer\obj\Debug\Serializer.csproj.CopyComplete
+C:\Users\felip\source\repos\CSharpExemplos\Serializer\obj\Debug\Serializer.exe
+C:\Users\felip\source\repos\CSharpExemplos\Serializer\obj\Debug\Serializer.pdb

@@ -1,0 +1,10 @@
+C:\Users\felip\source\repos\CSharpExemplos\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\CSharpExemplos\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\CSharpExemplos\Generics\bin\Debug\Generics.exe.config
+C:\Users\felip\source\repos\CSharpExemplos\Generics\bin\Debug\Generics.exe
+C:\Users\felip\source\repos\CSharpExemplos\Generics\bin\Debug\Generics.pdb
+C:\Users\felip\source\repos\CSharpExemplos\Generics\bin\Debug\0 - Uteis.dll
+C:\Users\felip\source\repos\CSharpExemplos\Generics\bin\Debug\0 - Uteis.pdb
+C:\Users\felip\source\repos\CSharpExemplos\Generics\obj\Debug\Generics.csproj.CopyComplete
+C:\Users\felip\source\repos\CSharpExemplos\Generics\obj\Debug\Generics.exe
+C:\Users\felip\source\repos\CSharpExemplos\Generics\obj\Debug\Generics.pdb

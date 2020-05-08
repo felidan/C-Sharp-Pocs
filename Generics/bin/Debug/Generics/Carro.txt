@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Carro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nome>Fox</Nome>
+  <Marca>VW</Marca>
+  <Ano>2020</Ano>
+</Carro>

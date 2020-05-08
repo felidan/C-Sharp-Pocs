@@ -1,0 +1,6 @@
+C:\Users\felip\source\repos\CSharpExemplos\0 - Uteis\bin\Debug\0 - Uteis.dll
+C:\Users\felip\source\repos\CSharpExemplos\0 - Uteis\bin\Debug\0 - Uteis.pdb
+C:\Users\felip\source\repos\CSharpExemplos\0 - Uteis\obj\Debug\0 - Uteis.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\CSharpExemplos\0 - Uteis\obj\Debug\0 - Uteis.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\CSharpExemplos\0 - Uteis\obj\Debug\0 - Uteis.dll
+C:\Users\felip\source\repos\CSharpExemplos\0 - Uteis\obj\Debug\0 - Uteis.pdb

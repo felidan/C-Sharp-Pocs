@@ -1,0 +1,7 @@
+C:\Users\felip\source\repos\CSharpExemplos\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\felip\source\repos\CSharpExemplos\Tasks\bin\Debug\Tasks.exe
+C:\Users\felip\source\repos\CSharpExemplos\Tasks\bin\Debug\Tasks.pdb
+C:\Users\felip\source\repos\CSharpExemplos\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\CSharpExemplos\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\CSharpExemplos\Tasks\obj\Debug\Tasks.exe
+C:\Users\felip\source\repos\CSharpExemplos\Tasks\obj\Debug\Tasks.pdb

@@ -1,0 +1,7 @@
+C:\Users\felip\source\repos\CSharpExemplos\AtributosReflections\bin\Debug\AtributosReflections.exe.config
+C:\Users\felip\source\repos\CSharpExemplos\AtributosReflections\bin\Debug\AtributosReflections.exe
+C:\Users\felip\source\repos\CSharpExemplos\AtributosReflections\bin\Debug\AtributosReflections.pdb
+C:\Users\felip\source\repos\CSharpExemplos\AtributosReflections\obj\Debug\AtributosReflections.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\CSharpExemplos\AtributosReflections\obj\Debug\AtributosReflections.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\CSharpExemplos\AtributosReflections\obj\Debug\AtributosReflections.exe
+C:\Users\felip\source\repos\CSharpExemplos\AtributosReflections\obj\Debug\AtributosReflections.pdb

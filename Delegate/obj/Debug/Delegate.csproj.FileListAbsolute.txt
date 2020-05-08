@@ -1,0 +1,10 @@
+C:\Users\felip\source\repos\CSharpExemplos\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\felip\source\repos\CSharpExemplos\Delegate\bin\Debug\Delegate.exe
+C:\Users\felip\source\repos\CSharpExemplos\Delegate\bin\Debug\Delegate.pdb
+C:\Users\felip\source\repos\CSharpExemplos\Delegate\bin\Debug\0 - Uteis.dll
+C:\Users\felip\source\repos\CSharpExemplos\Delegate\bin\Debug\0 - Uteis.pdb
+C:\Users\felip\source\repos\CSharpExemplos\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\CSharpExemplos\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\CSharpExemplos\Delegate\obj\Debug\Delegate.csproj.CopyComplete
+C:\Users\felip\source\repos\CSharpExemplos\Delegate\obj\Debug\Delegate.exe
+C:\Users\felip\source\repos\CSharpExemplos\Delegate\obj\Debug\Delegate.pdb
